@@ -1,5 +1,6 @@
 // module.exports = {
 //   images: {
+//     domains: ['kartikmahajan-nextjs-foodie-users-image.s3.amazonaws.com'],
 //     remotePatterns: [
 //       {
 //         protocol: "https",
